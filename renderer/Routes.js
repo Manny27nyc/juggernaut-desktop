@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import { Switch, Route } from 'react-router';
 import routes from './constants/routes.json';

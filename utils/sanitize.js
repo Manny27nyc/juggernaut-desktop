@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import isObject from './isObject';
 import truncate from './truncate';
 

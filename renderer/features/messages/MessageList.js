@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useEffect, useState, useLayoutEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import { IconButton } from 'rmwc';

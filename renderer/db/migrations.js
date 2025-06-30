@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const runMigrations = db => {
   db.version(1).stores({
     wallets: '++id',

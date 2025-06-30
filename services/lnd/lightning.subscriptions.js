@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable react/no-this-in-sfc */
 import { status } from '@grpc/grpc-js';
 import { grpcLog } from '../../utils/log';

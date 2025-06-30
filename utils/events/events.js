@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * forwardEvent - Setup listener that re-emits specified event.
  *

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // See: https://medium.com/@TwitterArchiveEraser/notarize-electron-apps-7a5f988406db
 /* eslint-disable no-console */
 require('dotenv').config();

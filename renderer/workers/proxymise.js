@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable no-underscore-dangle */
 // adapted from https://github.com/kozhevnikov/proxymise
 // comlink compatible version

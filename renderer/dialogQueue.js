@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable import/prefer-default-export */
 import { createDialogQueue, DialogQueue } from '@rmwc/dialog';
 import {

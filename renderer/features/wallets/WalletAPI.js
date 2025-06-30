@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import getNodeInterface from '../../../utils/getNodeInterface';
 import { readWallet } from '../../../utils/db';
 import { saveMessagesToDatabase } from '../messages/MessageAPI';

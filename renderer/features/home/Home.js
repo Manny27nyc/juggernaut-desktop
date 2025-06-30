@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import { useHistory } from 'react-router-dom';
 import routes from '../../constants/routes.json';

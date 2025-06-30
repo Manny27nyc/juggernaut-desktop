@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { useState } from 'react';
 import { Card, TabBar, Tab } from 'rmwc';
 import AddWalletForm from './AddWalletForm';

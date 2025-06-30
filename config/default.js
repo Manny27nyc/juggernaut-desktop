@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import getPackageDetails from '../utils/getPackageDetails';
 import isStableVersion from '../utils/isStableVersion';
 // The current stable base version.

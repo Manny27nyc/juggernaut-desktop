@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import { showOpenChannelModal } from '../channels/channelsSlice';

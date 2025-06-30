@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import mapRoutingPolicy from './routing_policy';
 
 const mapEdge = edge => {

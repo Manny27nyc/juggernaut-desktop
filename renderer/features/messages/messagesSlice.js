@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSlice } from '@reduxjs/toolkit';
 import { readMessages, readUnreadMessages } from '../../../utils/db';
 import extractMessagePreview from '../../../utils/extractMessagePreview';

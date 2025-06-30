@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { decodePayReq as bolt11DecodePayReq, getTag } from '../../utils/crypto';
 import { grpcLog } from '../../utils/log';
 import { logGrpcCmd } from './helpers';

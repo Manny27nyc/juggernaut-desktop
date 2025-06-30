@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { autoUpdater } from 'electron-updater';
 import { updaterLog } from '../utils/log';
 

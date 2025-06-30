@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { app, ipcMain } from 'electron';
 import { mainLog } from '../utils/log';
 import sanitize from '../utils/sanitize';

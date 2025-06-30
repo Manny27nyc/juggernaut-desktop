@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { send } from 'redux-electron-ipc';
 import { createSlice } from '@reduxjs/toolkit';
 import { disconnectWallet } from '../wallets/WalletAPI';

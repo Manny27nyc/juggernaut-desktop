@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import debugLogger from 'debug-logger';
 
 // Enable colors for object inspection.

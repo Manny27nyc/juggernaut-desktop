@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable no-restricted-globals */
 
 import { expose } from 'comlinkjs';

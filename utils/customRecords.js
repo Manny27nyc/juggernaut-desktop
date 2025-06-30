@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const tlvMsgRecord = 34349334;
 const tlvSigRecord = 34349337;
 const tlvSenderRecord = 34349339;

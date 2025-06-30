@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { TextField } from 'rmwc';

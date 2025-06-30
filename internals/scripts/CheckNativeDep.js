@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import fs from 'fs';
 import chalk from 'chalk';
 import { execSync } from 'child_process';

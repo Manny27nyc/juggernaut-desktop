@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * promiseTimeout - Reject a promise if it doesn't resolve after a given timeout window.
  *

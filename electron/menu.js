@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { app, Menu, shell } from 'electron';
 
 export default class MenuBuilder {

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import has from 'lodash/has';
 import cloneDeep from 'lodash/cloneDeep';
 

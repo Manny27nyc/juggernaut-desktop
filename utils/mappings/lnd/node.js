@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import mapAddress from './address';
 
 const mapNode = node => {

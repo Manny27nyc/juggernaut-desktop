@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import path from 'path';
 import { execSync } from 'child_process';
 import fs from 'fs';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import BitcoinIcon from './BitcoinIcon';
 import BitcoinLogo from './BitcoinLogo';
 import JuggernautIcon from './JuggernautIcon';

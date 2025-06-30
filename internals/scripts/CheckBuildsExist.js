@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 // Check if the renderer and main bundles are built
 import path from 'path';
 import chalk from 'chalk';

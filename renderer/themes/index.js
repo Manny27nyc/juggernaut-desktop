@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const defaultTheme = {
   primary: 'rgb(140, 77, 249)',
   secondary: 'black',

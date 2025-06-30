@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import { connect } from 'react-redux';
 import { DataTableRow, DataTableCell, Button, IconButton } from 'rmwc';

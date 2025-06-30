@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { normalize } from 'path';
 import electron, { remote } from 'electron';
 

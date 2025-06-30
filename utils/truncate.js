@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * truncate - Truncate a string by replacing the middle characters with ...
  *

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { proxyValue } from 'comlinkjs';
 import { createSlice } from '@reduxjs/toolkit';
 import { getWalletDetails, getBalanceInformation } from '../wallets/WalletAPI';

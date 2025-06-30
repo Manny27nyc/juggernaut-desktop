@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSlice } from '@reduxjs/toolkit';
 import { readWallets, deleteWallet } from '../../../utils/db';
 

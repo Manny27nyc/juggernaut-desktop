@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import isEqual from 'lodash/isEqual';
 import EventEmitter from 'events';
 import createScheduler from './scheduler';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /**
  * When running `npm run build` or `npm run build-preload`, this file is compiled to
  * `/dist/preload.js` using webpack.

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import React from 'react';
 import FilteredChannelList from './FilteredChannelList';
 import { Page, FixedHeader, ScrollableContent } from '../common';

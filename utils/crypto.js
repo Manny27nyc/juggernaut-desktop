@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import get from 'lodash/get';
 import range from 'lodash/range';
 import { address } from 'bitcoinjs-lib';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint global-require: 0, import/no-dynamic-require: 0 */
 import path from 'path';
 import webpack from 'webpack';
